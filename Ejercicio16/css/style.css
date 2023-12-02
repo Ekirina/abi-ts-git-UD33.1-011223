@@ -1,0 +1,10 @@
+#reloj {
+    color: #7d0d77;
+    font-size: 80px;
+    font-family: Arial;
+    letter-spacing: 5px;
+    text-align: center;
+    background-color: #e2d2a9;
+    border: 5px groove #cb5cb3;
+    border-radius: 10px;
+}
